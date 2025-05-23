@@ -1,10 +1,6 @@
 # 株式会社QueryLift
 
-![Example Tech Logo](https://via.placeholder.com/800x200?text=Example+Tech)
-
-## 私たちについて
-
-QueryLiftは、ChatGPTをはじめとする生成AIにあなたの会社を認知させ、回答に引用として表示されるようにする、AI時代のWeb可視化エンジンです。
+![Image](https://github.com/user-attachments/assets/c3f30fb3-1f98-4616-bc1f-91a5965b0df0)
 
 ### 🌟 ミッション
 
@@ -18,7 +14,7 @@ QueryLiftは、ChatGPTをはじめとする生成AIにあなたの会社を認�
 
 ## 🚀 主要プロジェクト
 
-### [ExampleHub](https://github.com/example-corp/example-hub)
+### [ExampleHub](https://github.com/)
 会社HP
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
