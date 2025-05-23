@@ -14,20 +14,20 @@
 
 ## 🚀 主要プロジェクト
 
-### [ExampleHub](https://github.com/)
+### [QueryLift_HP](https://github.com/QueryLift/QueryLift_HP)
 会社HP
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### [DataVizPro](https://github.com/example-corp/datavizpro)
-QueryLiftサービスサイト 
+### [KAIZEN_Frontend]([https://github.com/example-corp/datavizpro](https://github.com/QueryLift/KAIZEN_Frontend))
+主要サービス(KAIZEN)のフロントエンドリポジトリ
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 
-### [SecureConnect](https://github.com/example-corp/secure-connect)
-QueryLiftテックブログ
+### [KAIZEN Backend]([https://github.com/example-corp/secure-connect](https://github.com/QueryLift/KAIZEN_Backend))
+主要サービス(KAIZEN)のバックエンドリポジトリ
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
