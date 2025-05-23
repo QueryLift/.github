@@ -1,6 +1,6 @@
-# 株式会社QueryLift
+![hero](https://github.com/user-attachments/assets/272df9c8-91b2-49fd-a0a7-bdd402fab795)
 
-![Image](https://github.com/user-attachments/assets/c3f30fb3-1f98-4616-bc1f-91a5965b0df0)
+# 株式会社QueryLift
 
 ### 🌟 ミッション
 
