@@ -1,6 +1,6 @@
 ![github-top-hero](https://github.com/user-attachments/assets/08dc4ae7-fe6b-46ef-a18a-27055e5fe5ce)
-# 株式会社QueryLift
-株式会社QueryLiftのGitHub Organizationへようこそ
+# QueryLift株式会社
+QueryLift株式会社のGitHub Organizationへようこそ
 各種サービスやプロジェクト、研究関連資料などを管理しています。<br />
 主要プロジェクトやヘルプなどは下記のリンクを参照してください。
 
